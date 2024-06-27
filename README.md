@@ -16,7 +16,7 @@ Together with my teammate [Emirhan VARLIK](https://github.com/EmirhanVarlk), we 
 - **Recall**: 96% (Real), 98% (Fake) 📊
 - **F1-Score**: 96% (Real), 97% (Fake) 🏅
 
-Special thanks to[Emirhan VARLIK](https://github.com/EmirhanVarlk) for his contributions. 🙌
+Special thanks to [Emirhan VARLIK](https://github.com/EmirhanVarlk)  for his contributions. 🙌
 
 ## Usage
 To use this project, follow these steps:
