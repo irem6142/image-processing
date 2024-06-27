@@ -29,14 +29,6 @@ To use this project, follow these steps:
     ```bash
     cd image-processing
     ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. Run the training script:
-    ```bash
-    python train.py
-    ```
 
 ## Contributing
 If you want to contribute to this project, please open a pull request or issue.
